@@ -39,7 +39,7 @@ SENTANALYS is a web-based sentiment analysis tool that utilizes natural language
 
 ## Model Training
 
-To know more about the model training process, please refer to the [Sentiment_Analysis.ipynb](https://github.com/Hardvan/My-Machine-Learning-Projects/blob/main/Kaggle%20Practice/12_Sentiment_Analysis/Sentiment_Analysis.ipynb).
+To know more about the model training process, please refer to the [Sentiment_Analysis.ipynb](https://github.com/Anish2602/SENTANALYS/blob/main/SENTANALYS.ipynb).
 
 ## Installation
 
